@@ -1,6 +1,6 @@
 A simple instagram UI clone
 Features:
-1. responsive view
+1. Responsive view:
   - pc
   - phone
   - ipad
@@ -10,3 +10,4 @@ Features:
   - Javascript
   - CSS
   - JQuery
+  - Bootstrap 5
